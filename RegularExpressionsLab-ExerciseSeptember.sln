@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchFullName", "RegularExpressionsLab-ExerciseSeptember\MatchFullName.csproj", "{748F90A5-6931-4832-851F-4612F2BE446D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchPhoneNumber", "MatchPhoneNumber\MatchPhoneNumber.csproj", "{76B59354-35B5-4BA4-AF82-4F2D6C2310D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{748F90A5-6931-4832-851F-4612F2BE446D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748F90A5-6931-4832-851F-4612F2BE446D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748F90A5-6931-4832-851F-4612F2BE446D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748F90A5-6931-4832-851F-4612F2BE446D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76B59354-35B5-4BA4-AF82-4F2D6C2310D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B59354-35B5-4BA4-AF82-4F2D6C2310D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B59354-35B5-4BA4-AF82-4F2D6C2310D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B59354-35B5-4BA4-AF82-4F2D6C2310D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F27A3AAF-F152-4282-93AD-4366352BD7D8}
+	EndGlobalSection
+EndGlobal
